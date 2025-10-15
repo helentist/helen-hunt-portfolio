@@ -15,7 +15,7 @@ export default function Home() {
           <nav className="flex gap-8 items-center">
             <a href="#work" className="text-sm hover:opacity-60 transition-opacity">Work</a>
             <a href="#about" className="text-sm hover:opacity-60 transition-opacity">About me</a>
-            <a href="#contact" className="text-sm hover:opacity-60 transition-opacity">Let's chat!</a>
+            <a href="#contact" className="text-sm hover:opacity-60 transition-opacity">Let&apos;s chat!</a>
             <a href="/resume.pdf" download className="text-sm hover:opacity-60 transition-opacity flex items-center gap-1">
               <Download className="w-4 h-4" />
               Resume
@@ -90,7 +90,7 @@ export default function Home() {
             <div className="bg-gray-50 p-8 rounded-sm">
               <p className="text-base leading-relaxed text-black/70 mb-6">
                 Led the launch of over 10 new social media pages and executed full-scale campaigns. 
-                Partnered with Estonia's top influencers to drive awareness and engagement, managing 
+                Partnered with Estonia&apos;s top influencers to drive awareness and engagement, managing 
                 all creative assets, content rollout, and community interactions. Coordinated logistics 
                 for six large-scale giveaways, overseeing prize fulfillment and brand partnerships. 
                 Delivered performance analytics during and post-campaign to evaluate reach, engagement, and ROI.
@@ -225,21 +225,21 @@ export default function Home() {
             </div>
             <div className="lg:pt-20">
               <p className="text-xl leading-relaxed mb-6">
-                Hi, I'm Helen!
+                Hi, I&apos;m Helen!
               </p>
               <p className="text-base leading-relaxed text-black/70 mb-6">
                 Social-first marketer obsessed with building brands and communities that actually 
-                connect. I've led campaigns, influencer collaborations, and sports marketing projects 
+                connect. I&apos;ve led campaigns, influencer collaborations, and sports marketing projects 
                 that drive real engagement.
               </p>
               <p className="text-base leading-relaxed text-black/70 mb-6">
                 At GOAL, I managed content strategy and production for brands like DHL Express, 
                 blending creative storytelling with performance data. Before that, I led marketing 
-                for Estonia's largest youth volleyball club, turning local initiatives into national 
+                for Estonia&apos;s largest youth volleyball club, turning local initiatives into national 
                 campaigns that inspired families, athletes, and fans alike.
               </p>
               <p className="text-base leading-relaxed text-black/70 mb-8">
-                I thrive in fast-paced environments where creativity meets strategy, and I'm passionate 
+                I thrive in fast-paced environments where creativity meets strategy, and I&apos;m passionate 
                 about sports marketing and tech startups that are building something meaningful.
               </p>
               
@@ -262,10 +262,10 @@ export default function Home() {
         <div className="max-w-[1400px] mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
             <div>
-              <h2 className="text-6xl font-normal mb-8 tracking-tight">Let's chat!</h2>
+              <h2 className="text-6xl font-normal mb-8 tracking-tight">Let&apos;s chat!</h2>
               <p className="text-base leading-relaxed text-black/70 mb-8">
                 Looking for a Head of Marketing or Social Media Manager who can drive real results? 
-                I'd love to hear about your project.
+                I&apos;d love to hear about your project.
               </p>
               <a 
                 href="mailto:hunt.helen99@gmail.com"
