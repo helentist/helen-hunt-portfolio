@@ -1,0 +1,39 @@
+$ next dev --turbopack
+   ▲ Next.js 15.5.3 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 2.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 6.5s
+ GET / 200 in 1683ms
+ GET / 200 in 7447ms
+ ⚠ Cross origin request detected from helen-hunt-portfolio.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 566ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 932ms
+ GET / 200 in 369ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 293ms
+ ✓ Compiled in 420ms
+ ✓ Compiled / in 46ms
+ GET / 200 in 347ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 330ms
+ ✓ Compiled in 261ms
+ GET / 200 in 348ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 295ms
+ ✓ Compiled in 458ms
+ GET / 200 in 351ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 263ms
+ ✓ Compiled in 242ms
+ GET / 200 in 323ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 255ms
+ ✓ Compiled in 292ms
+ GET / 200 in 345ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 259ms
