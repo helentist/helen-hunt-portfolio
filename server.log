@@ -37,3 +37,9 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  ✓ Compiled in 292ms
  GET / 200 in 345ms
  GET /favicon.ico?favicon.bf3c9292.ico 200 in 259ms
+ GET / 200 in 329ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 269ms
+ GET / 200 in 1056ms
+ ✓ Compiled in 261ms
+ ✓ Compiled / in 45ms
+ GET / 200 in 220ms

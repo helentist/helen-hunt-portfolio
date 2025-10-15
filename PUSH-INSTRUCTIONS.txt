@@ -1,0 +1,12 @@
+# Push to GitHub Instructions
+
+After creating your Personal Access Token, run these commands:
+
+cd /home/code/helen-hunt-portfolio
+
+# Push to GitHub (you'll be prompted for username and password)
+# Username: helentist
+# Password: [paste your personal access token here]
+git push -u origin main
+
+# That's it! Your code will be on GitHub.
